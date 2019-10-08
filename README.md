@@ -1,2 +1,2 @@
 # Text-Summariztion
-Takes voice input or audio file and summarizes it to a text.
+Takes file input and summazrizes it.
