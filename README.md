@@ -1,2 +1,2 @@
 # Text-Summariztion
-Takes file input and summazrizes it.
+Takes text file as input and summazrizes the file, giving us the brief and important points from the file.
